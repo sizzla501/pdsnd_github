@@ -17,3 +17,6 @@ It's important to give proper credit. Add links to any repo that inspired you or
 
 ### Update
 I'm currently testing out the version control tool git (again)
+
+### Conclusion
+It works perfectly.
