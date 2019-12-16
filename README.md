@@ -25,3 +25,6 @@ It works perfectly.
 
 ### Thoughts
 I think this tool makes the coding workflow very efficient.
+
+### Final thoughts
+The git tool is an excellent addition to my developer toolbox
